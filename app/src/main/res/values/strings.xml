@@ -1,0 +1,16 @@
+<resources>
+  <string name="app_name">手機與平板UI佈局</string>
+
+  <string name="list_heading">功能清單列表</string>
+  <string name="detail_heading">功能內容頁</string>
+
+  <string name="btn_1">年代新聞頻道</string>
+  <string name="btn_2">壹電視新聞頻道</string>
+
+  <string name="detail_body1">專業的年代，巨觀的新聞－\n年代新聞給您最專業、最精確的報導，跟您一起分析時事，掌握最新消息！\n\n客服專線:0800-573-888\n\n年代新聞官方網站:\nhttp://eranews.eracom.com.tw/\n\n年代主播粉絲團:\nhttp://eranews.eracom.com.tw/files/fb/xml/fb.xml\n</string>
+  <string name="detail_body2">「沒有更真，唯壹最敢」的新聞台，敢說真話、不被政黨財團收買。\n\n除了全程以高畫質、數位化製播之外，更以3D動畫輔助與重建事件現場。\n\n使用即時的虛擬實境，延伸新聞呈現的界限。\n\n主播可在以最快的速度，將觀眾拉到新聞現場。</string>
+  <string name="empty"></string>
+
+  <string name="hello_world">Hello world!</string>
+  <string name="action_settings">Settings</string>
+</resources>
